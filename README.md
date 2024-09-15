@@ -21,12 +21,12 @@
 <a>
 <picture>
     <source
-    height="300"
+    height="250"
     srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&title_color=4493F8&text_color=FFFFFF&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    height="300"
+    height="250"
     srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&title_color=4493F8&text_color=000000&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
@@ -41,8 +41,8 @@
 <br><br>
 <!-- Metrics Section -->
 <p>
-  <img height="260" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
-  <img height="260" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
+  <img height="300" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+  <img height="300" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
 </p>
 <!-- Padding -->
 <br><br>
