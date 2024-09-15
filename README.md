@@ -41,8 +41,8 @@
 <br><br>
 <!-- Metrics Section -->
 <p>
-  <img height="300" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
-  <img height="300" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
+  <img height="290" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+  <img height="290" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
 </p>
 <!-- Padding -->
 <br><br>
@@ -59,8 +59,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
+    width="90%"
     src="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=FFFFFF&title_color=4493F8&color=000000&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=60"
     alt="Attempt3035's GitHub Activity Graph"
-    height="250"
     />
 </picture>
