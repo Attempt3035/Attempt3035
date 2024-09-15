@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Schedule daily updates
+  workflow_dispatch: # (optional) Run workflow manually
+  push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Australia/Sydney
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Australia/Sydney
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
