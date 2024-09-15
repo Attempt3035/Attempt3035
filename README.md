@@ -48,16 +48,16 @@
 <!-- Activity Section -->
 <picture>
     <source
-    srcset="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=00000000&title_color=4493F8&color=FFFFFF&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=30"
+    srcset="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=00000000&title_color=4493F8&color=FFFFFF&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=40"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=00000000&title_color=4493F8&color=000000&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=30"
+    srcset="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=00000000&title_color=4493F8&color=000000&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=40"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-    src="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=FFFFFF&title_color=4493F8&color=000000&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=30"
-    alt="Attempt3035's GitHub stats"
+    src="https://github-readme-activity-graph.dev.lukeaguilar.com/graph?username=Attempt3035&bg_color=FFFFFF&title_color=4493F8&color=000000&point=fe801900&line=9745f5&area_color=9745f5&area=true&hide_border=true&grid=false&days=40"
+    alt="Attempt3035's GitHub Activity Graph"
     height="200"
     style="align-self: center;"
     />
