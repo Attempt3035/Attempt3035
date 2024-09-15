@@ -36,3 +36,10 @@
     />
 </picture>
 </a>
+<!-- Padding -->
+<br><br>
+<!-- Metrics Section -->
+<p>
+  <img height="230" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+  <img height="230" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
+</p>
