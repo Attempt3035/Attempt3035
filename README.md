@@ -23,17 +23,17 @@
 <picture>
     <source
     height="225"
-    srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&title_color=4493F8&text_color=FFFFFF&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
+    srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&custom_title=Github%20Stats&title_color=4493F8&text_color=FFFFFF&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
     media="(prefers-color-scheme: dark)"
     />
     <source
     height="225"
-    srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&title_color=4493F8&text_color=000000&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
+    srcset="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&custom_title=Github%20Stats&title_color=4493F8&text_color=000000&bg_color=00000000&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
     height="225"
-    src="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&title_color=4493F8&text_color=000000&bg_color=FFFFFF&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
+    src="https://github-readme-stats.dev.lukeaguilar.com/api/top-langs/?username=Attempt3035&custom_title=Github%20Stats&title_color=4493F8&text_color=000000&bg_color=FFFFFF&layout=compact&langs_count=10&hide_border=true&size_weight=0.9"
     alt="Attempt3035's Top Languages"
     />
 </picture>
