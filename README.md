@@ -43,7 +43,6 @@
 <!-- Metrics Section -->
 <p>
   <img height="260" src="/assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
-  <img height="260" src="/assets/metrics.plugin.achievements.svg" alt="Achievements" />
 </p>
 <!-- Padding -->
 <br><br>
